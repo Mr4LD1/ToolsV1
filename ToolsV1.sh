@@ -41,7 +41,8 @@ echo "[1].locator
 [30].PhisingGame
 [31].cupp (UntukBuatWorlist)
 [32].MulungBtc
-[33].Brute_Force_Gmail" | lolcat
+[33].Brute_Force_Gmail
+[34].exit" | lolcat
 
 
 
